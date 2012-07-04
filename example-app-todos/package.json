@@ -1,0 +1,8 @@
+{
+    "name": "localtodos"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "node-static": ">= 0.5.9"
+  }
+}

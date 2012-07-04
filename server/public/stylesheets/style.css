@@ -1,0 +1,29 @@
+body {
+  padding: 15px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #e0e0e0;
+  color : #2b2b2b;
+}
+
+a {
+  color: #156b85;
+}
+
+h1 {font: 60px/68px 'PTSansRegular', Arial, sans-serif;letter-spacing: 0;}
+
+.shotThumbnail {
+    height : 300px;
+}
+
+.shot {
+    background-color: #707070;
+    text-align: center;
+    color: white;
+    float: left;
+    padding: 40px;
+    margin: 10px;
+}
+
+.clearFloating {
+    clear: both;
+}
