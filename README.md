@@ -19,7 +19,7 @@ Components
 ---
 The showcase consists of the following components:
 
-* A CasperJS module that supplies the method verifyScreenshot(screenshotId[, area]) (the area parameter is passed to [casper.captureBase64](http://casperjs.org/api.html#casper.captureBase64))
+* A CasperJS module that supplies the method assertScreenshotAccepted(screenshotId[, area]) (the area parameter is passed to [casper.captureBase64](http://casperjs.org/api.html#casper.captureBase64))
 * An example application (a copy of [Localtodos](http://localtodos.com))
 * A node.js server
 
@@ -33,9 +33,3 @@ Deploying and running the showcase
 * run `cd server && npm install && node app.js` to download required NPM modules and run the ScreenSpook server
 * open http://localhost:3000 to see the screenspook site
 * run `cd casperjs && casperjs example-todos.js` to see the first tests fail
-
-
-
-http://googletesting.blogspot.de/2011/10/unleash-qualitybots.html
-http://sikuli.org/
-http://code.google.com/p/fighting-layout-bugs/
