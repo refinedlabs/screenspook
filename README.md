@@ -14,6 +14,7 @@ Prerequisites
 
 * PhantomJS
 * CasperJS
+* CouchDB
 
 Components
 ---
