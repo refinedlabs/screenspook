@@ -12,9 +12,10 @@ a web interface allowing the user to approve new screenshots.
 Prerequisites
 ----
 
+* CouchDB
+* node.js
 * PhantomJS
 * CasperJS
-* CouchDB
 
 Components
 ---
